@@ -189,7 +189,7 @@ function SaveImgUrl() {
 
     // button four
 
-  if (id4.innerHTML == "react-js") {
+  if (id4.innerHTML == "react js") {
     document.getElementById("btn-four").style.visibility = "visible";
   } else {
     document.getElementById("btn-four").style.visibility = "hidden";
